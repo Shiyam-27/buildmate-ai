@@ -1,0 +1,165 @@
+[
+  {
+    "type": "DDR4",
+    "speed": 2666,
+    "capacity": 8,
+    "price": 2000,
+    "name": "Corsair Vengeance LPX 8GB DDR4-2666"
+  },
+  {
+    "type": "DDR4",
+    "speed": 2666,
+    "capacity": 16,
+    "price": 3600,
+    "name": "G.Skill Trident Z Neo 16GB DDR4-2666"
+  },
+  {
+    "type": "DDR4",
+    "speed": 3000,
+    "capacity": 8,
+    "price": 2240,
+    "name": "Kingston SystemX 8GB DDR4-3000"
+  },
+  {
+    "type": "DDR4",
+    "speed": 3000,
+    "capacity": 16,
+    "price": 4000,
+    "name": "Crucial Ballistix 16GB DDR4-3000"
+  },
+  {
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "price": 2400,
+    "name": "Teamgroup T-Force Vulcan Z 8GB DDR4-3200"
+  },
+  {
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "price": 4400,
+    "name": "Corsair Dominator Platinum 16GB DDR4-3200"
+  },
+  {
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 32,
+    "price": 8000,
+    "name": "G.Skill Trident Z Royal 32GB DDR4-3200"
+  },
+  {
+    "type": "DDR4",
+    "speed": 3600,
+    "capacity": 8,
+    "price": 2800,
+    "name": "Kingston HyperX Fury 8GB DDR4-3600"
+  },
+  {
+    "type": "DDR4",
+    "speed": 3600,
+    "capacity": 16,
+    "price": 5200,
+    "name": "Crucial Ballistix Tactical 16GB DDR4-3600"
+  },
+  {
+    "type": "DDR4",
+    "speed": 3600,
+    "capacity": 32,
+    "price": 9200,
+    "name": "Teamgroup T-Force Delta RGB 32GB DDR4-3600"
+  },
+  {
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 8,
+    "price": 3600,
+    "name": "Corsair Vengeance RGB Pro 8GB DDR5-4800"
+  },
+  {
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 16,
+    "price": 6400,
+    "name": "G.Skill Ripjaws V 16GB DDR5-4800"
+  },
+  {
+    "type": "DDR5",
+    "speed": 4800,
+    "capacity": 32,
+    "price": 12000,
+    "name": "Kingston Fury Beast 32GB DDR5-4800"
+  },
+  {
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 8,
+    "price": 4000,
+    "name": "Crucial Ballistix Max 8GB DDR5-5200"
+  },
+  {
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 16,
+    "price": 7200,
+    "name": "Teamgroup T-Force Xtreem ARGB 16GB DDR5-5200"
+  },
+  {
+    "type": "DDR5",
+    "speed": 5200,
+    "capacity": 32,
+    "price": 13200,
+    "name": "Corsair Vengeance LPX 32GB DDR5-5200"
+  },
+  {
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 8,
+    "price": 4400,
+    "name": "G.Skill Trident Z Neo 8GB DDR5-5600"
+  },
+  {
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 16,
+    "price": 8000,
+    "name": "Kingston SystemX 16GB DDR5-5600"
+  },
+  {
+    "type": "DDR5",
+    "speed": 5600,
+    "capacity": 32,
+    "price": 14400,
+    "name": "Crucial Ballistix 32GB DDR5-5600"
+  },
+  {
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 16,
+    "price": 8800,
+    "name": "Teamgroup T-Force Vulcan Z 16GB DDR5-6000"
+  },
+  {
+    "type": "DDR5",
+    "speed": 6000,
+    "capacity": 32,
+    "price": 16000,
+    "name": "Corsair Dominator Platinum 32GB DDR5-6000"
+  },
+  {
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 8,
+    "price": 2240,
+    "form_factor": "SO-DIMM",
+    "name": "G.Skill Trident Z Royal 8GB DDR4-3200"
+  },
+  {
+    "type": "DDR4",
+    "speed": 3200,
+    "capacity": 16,
+    "price": 4160,
+    "form_factor": "SO-DIMM",
+    "name": "Kingston HyperX Fury 16GB DDR4-3200"
+  }
+]

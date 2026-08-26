@@ -1,0 +1,138 @@
+[
+  {
+    "max_gpu_length_mm": 350,
+    "form_factor": "ATX",
+    "price": 5520,
+    "name": "NZXT H510"
+  },
+  {
+    "max_gpu_length_mm": 380,
+    "form_factor": "ATX",
+    "price": 6320,
+    "name": "Corsair 4000D Airflow"
+  },
+  {
+    "max_gpu_length_mm": 400,
+    "form_factor": "ATX",
+    "price": 7120,
+    "name": "Thermaltake Versa H21"
+  },
+  {
+    "max_gpu_length_mm": 420,
+    "form_factor": "ATX",
+    "price": 7920,
+    "name": "Fractal Design Meshify C"
+  },
+  {
+    "max_gpu_length_mm": 360,
+    "form_factor": "Micro-ATX",
+    "price": 4720,
+    "name": "Phanteks Eclipse P300A"
+  },
+  {
+    "max_gpu_length_mm": 380,
+    "form_factor": "Micro-ATX",
+    "price": 5520,
+    "name": "Cooler Master MasterBox TD500"
+  },
+  {
+    "max_gpu_length_mm": 350,
+    "form_factor": "Mini-ITX",
+    "price": 6320,
+    "name": "NZXT H510 Elite"
+  },
+  {
+    "max_gpu_length_mm": 380,
+    "form_factor": "Mini-ITX",
+    "price": 7120,
+    "name": "Corsair 5000D Airflow"
+  },
+  {
+    "max_gpu_length_mm": 400,
+    "form_factor": "Mini-ITX",
+    "price": 7920,
+    "name": "Lian Li Lancool 215"
+  },
+  {
+    "max_gpu_length_mm": 420,
+    "form_factor": "ATX",
+    "price": 9520,
+    "tempered_glass": true,
+    "name": "be quiet! Pure Base 500"
+  },
+  {
+    "max_gpu_length_mm": 430,
+    "form_factor": "ATX",
+    "price": 10320,
+    "tempered_glass": true,
+    "name": "SilverStone SG13"
+  },
+  {
+    "max_gpu_length_mm": 440,
+    "form_factor": "ATX",
+    "price": 11120,
+    "tempered_glass": true,
+    "airflow": "high",
+    "name": "Cooler Master NR200"
+  },
+  {
+    "max_gpu_length_mm": 380,
+    "form_factor": "Micro-ATX",
+    "price": 7120,
+    "tempered_glass": true,
+    "name": "InWin Chopin"
+  },
+  {
+    "max_gpu_length_mm": 350,
+    "form_factor": "Mini-ITX",
+    "price": 7920,
+    "tempered_glass": true,
+    "name": "Fractal Design Node 202"
+  },
+  {
+    "max_gpu_length_mm": 450,
+    "form_factor": "ATX",
+    "price": 11920,
+    "rgb": true,
+    "tempered_glass": true,
+    "name": "Cougar QBX"
+  },
+  {
+    "max_gpu_length_mm": 460,
+    "form_factor": "ATX",
+    "price": 12720,
+    "rgb": true,
+    "tempered_glass": true,
+    "airflow": "high",
+    "name": "NZXT H510"
+  },
+  {
+    "max_gpu_length_mm": 300,
+    "form_factor": "Mini-ITX",
+    "price": 9520,
+    "sfx": true,
+    "name": "Corsair 4000D Airflow"
+  },
+  {
+    "max_gpu_length_mm": 320,
+    "form_factor": "Mini-ITX",
+    "price": 10320,
+    "sfx": true,
+    "name": "Thermaltake Versa H21"
+  },
+  {
+    "max_gpu_length_mm": 380,
+    "form_factor": "Micro-ATX",
+    "price": 7920,
+    "rgb": true,
+    "name": "Fractal Design Meshify C"
+  },
+  {
+    "max_gpu_length_mm": 400,
+    "form_factor": "ATX",
+    "price": 8720,
+    "rgb": false,
+    "tempered_glass": false,
+    "name": "Phanteks Eclipse P300A"
+  }
+]

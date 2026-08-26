@@ -1,0 +1,205 @@
+[
+  {
+    "name": "MSI A520M-A PRO",
+    "socket": "AM4",
+    "ram_type": "DDR4",
+    "form_factor": "Micro-ATX",
+    "price": 4720
+  },
+  {
+    "name": "ASRock B450M-HDV R4.0",
+    "socket": "AM4",
+    "ram_type": "DDR4",
+    "form_factor": "Micro-ATX",
+    "price": 4990
+  },
+  {
+    "name": "ASUS Prime B550-PLUS",
+    "socket": "AM4",
+    "ram_type": "DDR4",
+    "form_factor": "ATX",
+    "price": 9520
+  },
+  {
+    "name": "MSI MAG B550 Tomahawk",
+    "socket": "AM4",
+    "ram_type": "DDR4",
+    "form_factor": "ATX",
+    "price": 11920
+  },
+  {
+    "name": "Gigabyte B550 AORUS Elite",
+    "socket": "AM4",
+    "ram_type": "DDR4",
+    "form_factor": "ATX",
+    "price": 11120
+  },
+  {
+    "name": "ASUS ROG Strix B550-F Gaming",
+    "socket": "AM4",
+    "ram_type": "DDR4",
+    "form_factor": "ATX",
+    "price": 15120
+  },
+  {
+    "name": "ASRock B550 Steel Legend",
+    "socket": "AM4",
+    "ram_type": "DDR4",
+    "form_factor": "ATX",
+    "price": 10320
+  },
+  {
+    "name": "ASUS Prime X570-P",
+    "socket": "AM4",
+    "ram_type": "DDR4",
+    "form_factor": "ATX",
+    "price": 12720
+  },
+  {
+    "name": "MSI MEG X570 Godlike",
+    "socket": "AM4",
+    "ram_type": "DDR4",
+    "form_factor": "E-ATX",
+    "price": 39920
+  },
+  {
+    "name": "ASUS ROG Crosshair VIII Hero",
+    "socket": "AM4",
+    "ram_type": "DDR4",
+    "form_factor": "E-ATX",
+    "price": 34320
+  },
+  {
+    "name": "Gigabyte X670 AORUS Elite AX",
+    "socket": "AM5",
+    "ram_type": "DDR5",
+    "form_factor": "ATX",
+    "price": 19920
+  },
+  {
+    "name": "MSI MPG X670E Carbon WiFi",
+    "socket": "AM5",
+    "ram_type": "DDR5",
+    "form_factor": "ATX",
+    "price": 27920
+  },
+  {
+    "name": "ASUS ROG Strix X670E-E Gaming WiFi",
+    "socket": "AM5",
+    "ram_type": "DDR5",
+    "form_factor": "ATX",
+    "price": 31920
+  },
+  {
+    "name": "ASRock X670E Taichi",
+    "socket": "AM5",
+    "ram_type": "DDR5",
+    "form_factor": "E-ATX",
+    "price": 35920
+  },
+  {
+    "name": "ASUS Prime B650M-A",
+    "socket": "AM5",
+    "ram_type": "DDR5",
+    "form_factor": "Micro-ATX",
+    "price": 10320
+  },
+  {
+    "name": "MSI PRO B650M-G",
+    "socket": "AM5",
+    "ram_type": "DDR5",
+    "form_factor": "Micro-ATX",
+    "price": 8720
+  },
+  {
+    "name": "Gigabyte B650 AORUS Elite AX",
+    "socket": "AM5",
+    "ram_type": "DDR5",
+    "form_factor": "ATX",
+    "price": 14320
+  },
+  {
+    "name": "ASUS Prime Z690-P",
+    "socket": "LGA1700",
+    "ram_type": "DDR4",
+    "form_factor": "ATX",
+    "price": 11920
+  },
+  {
+    "name": "MSI MAG Z690 Tomahawk WiFi",
+    "socket": "LGA1700",
+    "ram_type": "DDR4",
+    "form_factor": "ATX",
+    "price": 15920
+  },
+  {
+    "name": "Gigabyte Z690 AORUS Elite AX",
+    "socket": "LGA1700",
+    "ram_type": "DDR4",
+    "form_factor": "ATX",
+    "price": 15120
+  },
+  {
+    "name": "ASUS ROG Strix Z690-E Gaming WiFi",
+    "socket": "LGA1700",
+    "ram_type": "DDR4",
+    "form_factor": "ATX",
+    "price": 23920
+  },
+  {
+    "name": "ASUS Prime Z790-P",
+    "socket": "LGA1700",
+    "ram_type": "DDR5",
+    "form_factor": "ATX",
+    "price": 14320
+  },
+  {
+    "name": "MSI MAG Z790 Tomahawk WiFi",
+    "socket": "LGA1700",
+    "ram_type": "DDR5",
+    "form_factor": "ATX",
+    "price": 18320
+  },
+  {
+    "name": "Gigabyte Z790 AORUS Elite AX",
+    "socket": "LGA1700",
+    "ram_type": "DDR5",
+    "form_factor": "ATX",
+    "price": 17520
+  },
+  {
+    "name": "ASRock Z790 Taichi",
+    "socket": "LGA1700",
+    "ram_type": "DDR5",
+    "form_factor": "E-ATX",
+    "price": 27920
+  },
+  {
+    "name": "ASUS Prime H610M-K",
+    "socket": "LGA1700",
+    "ram_type": "DDR4",
+    "form_factor": "Micro-ATX",
+    "price": 5520
+  },
+  {
+    "name": "Gigabyte H610M S2H",
+    "socket": "LGA1700",
+    "ram_type": "DDR4",
+    "form_factor": "Micro-ATX",
+    "price": 4720
+  },
+  {
+    "name": "ASRock B660M-HDV",
+    "socket": "LGA1700",
+    "ram_type": "DDR4",
+    "form_factor": "Micro-ATX",
+    "price": 6320
+  },
+  {
+    "name": "ASUS Prime B660M-A",
+    "socket": "LGA1700",
+    "ram_type": "DDR4",
+    "form_factor": "Micro-ATX",
+    "price": 7120
+  }
+]

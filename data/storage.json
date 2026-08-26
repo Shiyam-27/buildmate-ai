@@ -1,0 +1,157 @@
+[
+  {
+    "type": "SATA",
+    "capacity": 250,
+    "price": 2000,
+    "name": "Samsung Generic SSD 250GB SATA SSD"
+  },
+  {
+    "type": "SATA",
+    "capacity": 500,
+    "price": 3200,
+    "name": "Western Digital Generic SSD 500GB SATA SSD"
+  },
+  {
+    "type": "SATA",
+    "capacity": 1000,
+    "price": 5200,
+    "name": "Crucial Generic SSD 1000GB SATA SSD"
+  },
+  {
+    "type": "SATA",
+    "capacity": 2000,
+    "price": 8800,
+    "name": "Kingston Generic SSD 2000GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 250,
+    "price": 2400,
+    "name": "Seagate FireCuda 530 250GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 500,
+    "price": 3600,
+    "name": "WD 970 EVO Plus 500GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 1000,
+    "price": 5600,
+    "name": "Samsung 980 Pro 1000GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 2000,
+    "price": 9600,
+    "name": "Western Digital WD Black SN850 2000GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 4000,
+    "price": 18400,
+    "name": "Crucial P5 Plus 4000GB SATA SSD"
+  },
+  {
+    "type": "SATA",
+    "capacity": 250,
+    "price": 1760,
+    "form_factor": "2.5 inch",
+    "name": "Kingston Generic SSD 250GB SATA SSD"
+  },
+  {
+    "type": "SATA",
+    "capacity": 500,
+    "price": 3040,
+    "form_factor": "2.5 inch",
+    "name": "Seagate Generic SSD 500GB SATA SSD"
+  },
+  {
+    "type": "SATA",
+    "capacity": 1000,
+    "price": 4800,
+    "form_factor": "2.5 inch",
+    "name": "WD Generic SSD 1000GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 500,
+    "price": 3360,
+    "form_factor": "M.2 2280",
+    "interface": "PCIe 3.0 x4",
+    "name": "Samsung WD Black SN850 500GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 1000,
+    "price": 5440,
+    "form_factor": "M.2 2280",
+    "interface": "PCIe 3.0 x4",
+    "name": "Western Digital P5 Plus 1000GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 2000,
+    "price": 9200,
+    "form_factor": "M.2 2280",
+    "interface": "PCIe 4.0 x4",
+    "name": "Crucial FireCuda 530 2000GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 1000,
+    "price": 6400,
+    "form_factor": "M.2 2280",
+    "interface": "PCIe 4.0 x4",
+    "name": "Kingston 970 EVO Plus 1000GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 2000,
+    "price": 10400,
+    "form_factor": "M.2 2280",
+    "interface": "PCIe 4.0 x4",
+    "name": "Seagate 980 Pro 2000GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 4000,
+    "price": 20000,
+    "form_factor": "M.2 2280",
+    "interface": "PCIe 4.0 x4",
+    "name": "WD WD Black SN850 4000GB SATA SSD"
+  },
+  {
+    "type": "SATA",
+    "capacity": 500,
+    "price": 2800,
+    "form_factor": "M.2 2280",
+    "interface": "SATA",
+    "name": "Samsung Generic SSD 500GB SATA SSD"
+  },
+  {
+    "type": "SATA",
+    "capacity": 1000,
+    "price": 4640,
+    "form_factor": "M.2 2280",
+    "interface": "SATA",
+    "name": "Western Digital Generic SSD 1000GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 500,
+    "price": 4000,
+    "form_factor": "Add-in Card",
+    "interface": "PCIe 4.0 x4",
+    "name": "Crucial 970 EVO Plus 500GB SATA SSD"
+  },
+  {
+    "type": "NVMe",
+    "capacity": 1000,
+    "price": 6800,
+    "form_factor": "Add-in Card",
+    "interface": "PCIe 4.0 x4",
+    "name": "Kingston 980 Pro 1000GB SATA SSD"
+  }
+]

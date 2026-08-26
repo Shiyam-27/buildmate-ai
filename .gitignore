@@ -1,4 +1,29 @@
-﻿.env
+# Secrets & Environment
+.env
+.env.*
+
+# Python
 venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Logs
+*.log
+fresh.log
+uvicorn*.log
+
+# Backup files
+*.bak
+*.backup*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

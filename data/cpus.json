@@ -1,0 +1,212 @@
+[
+  {
+    "name": "AMD Ryzen 5 5600X",
+    "socket": "AM4",
+    "price": 12720,
+    "tdp": 65,
+    "core_count": 6
+  },
+  {
+    "name": "AMD Ryzen 5 5600G",
+    "socket": "AM4",
+    "price": 10320,
+    "tdp": 65,
+    "core_count": 6
+  },
+  {
+    "name": "AMD Ryzen 7 5800X",
+    "socket": "AM4",
+    "price": 22320,
+    "tdp": 105,
+    "core_count": 8
+  },
+  {
+    "name": "AMD Ryzen 7 5800X3D",
+    "socket": "AM4",
+    "price": 27920,
+    "tdp": 105,
+    "core_count": 8
+  },
+  {
+    "name": "AMD Ryzen 9 5900X",
+    "socket": "AM4",
+    "price": 27920,
+    "tdp": 105,
+    "core_count": 12
+  },
+  {
+    "name": "AMD Ryzen 9 5950X",
+    "socket": "AM4",
+    "price": 43920,
+    "tdp": 105,
+    "core_count": 16
+  },
+  {
+    "name": "AMD Ryzen 5 7600",
+    "socket": "AM5",
+    "price": 16720,
+    "tdp": 65,
+    "core_count": 6
+  },
+  {
+    "name": "AMD Ryzen 5 7600X",
+    "socket": "AM5",
+    "price": 19120,
+    "tdp": 105,
+    "core_count": 6
+  },
+  {
+    "name": "AMD Ryzen 7 7700",
+    "socket": "AM5",
+    "price": 23920,
+    "tdp": 65,
+    "core_count": 8
+  },
+  {
+    "name": "AMD Ryzen 7 7700X",
+    "socket": "AM5",
+    "price": 26320,
+    "tdp": 105,
+    "core_count": 8
+  },
+  {
+    "name": "AMD Ryzen 9 7900",
+    "socket": "AM5",
+    "price": 31920,
+    "tdp": 65,
+    "core_count": 12
+  },
+  {
+    "name": "AMD Ryzen 9 7900X",
+    "socket": "AM5",
+    "price": 34320,
+    "tdp": 170,
+    "core_count": 12
+  },
+  {
+    "name": "AMD Ryzen 9 7950X",
+    "socket": "AM5",
+    "price": 43920,
+    "tdp": 170,
+    "core_count": 16
+  },
+  {
+    "name": "Intel Core i5-12400",
+    "socket": "LGA1700",
+    "price": 13520,
+    "tdp": 65,
+    "core_count": 6
+  },
+  {
+    "name": "Intel Core i5-12400F",
+    "socket": "LGA1700",
+    "price": 11120,
+    "tdp": 65,
+    "core_count": 6
+  },
+  {
+    "name": "Intel Core i5-12600K",
+    "socket": "LGA1700",
+    "price": 18320,
+    "tdp": 125,
+    "core_count": 10
+  },
+  {
+    "name": "Intel Core i5-12600KF",
+    "socket": "LGA1700",
+    "price": 17520,
+    "tdp": 125,
+    "core_count": 10
+  },
+  {
+    "name": "Intel Core i7-12700",
+    "socket": "LGA1700",
+    "price": 26320,
+    "tdp": 65,
+    "core_count": 12
+  },
+  {
+    "name": "Intel Core i7-12700K",
+    "socket": "LGA1700",
+    "price": 28720,
+    "tdp": 125,
+    "core_count": 12
+  },
+  {
+    "name": "Intel Core i7-12700KF",
+    "socket": "LGA1700",
+    "price": 27920,
+    "tdp": 125,
+    "core_count": 12
+  },
+  {
+    "name": "Intel Core i9-12900K",
+    "socket": "LGA1700",
+    "price": 43920,
+    "tdp": 150,
+    "core_count": 16
+  },
+  {
+    "name": "Intel Core i9-12900KF",
+    "socket": "LGA1700",
+    "price": 43120,
+    "tdp": 150,
+    "core_count": 16
+  },
+  {
+    "name": "Intel Core i5-13400",
+    "socket": "LGA1700",
+    "price": 17520,
+    "tdp": 65,
+    "core_count": 10
+  },
+  {
+    "name": "Intel Core i5-13400F",
+    "socket": "LGA1700",
+    "price": 15120,
+    "tdp": 65,
+    "core_count": 10
+  },
+  {
+    "name": "Intel Core i5-13600K",
+    "socket": "LGA1700",
+    "price": 23120,
+    "tdp": 125,
+    "core_count": 14
+  },
+  {
+    "name": "Intel Core i5-13600KF",
+    "socket": "LGA1700",
+    "price": 22320,
+    "tdp": 125,
+    "core_count": 14
+  },
+  {
+    "name": "Intel Core i7-13700K",
+    "socket": "LGA1700",
+    "price": 32720,
+    "tdp": 125,
+    "core_count": 16
+  },
+  {
+    "name": "Intel Core i7-13700KF",
+    "socket": "LGA1700",
+    "price": 31920,
+    "tdp": 125,
+    "core_count": 16
+  },
+  {
+    "name": "Intel Core i9-13900K",
+    "socket": "LGA1700",
+    "price": 46320,
+    "tdp": 125,
+    "core_count": 24
+  },
+  {
+    "name": "Intel Core i9-13900KF",
+    "socket": "LGA1700",
+    "price": 45520,
+    "tdp": 125,
+    "core_count": 24
+  }
+]

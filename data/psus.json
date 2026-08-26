@@ -1,0 +1,167 @@
+[
+  {
+    "wattage": 450,
+    "price": 3600,
+    "efficiency_rating": "80+ White",
+    "name": "Corsair RM 450W"
+  },
+  {
+    "wattage": 450,
+    "price": 4400,
+    "efficiency_rating": "80+ Bronze",
+    "name": "EVGA SuperNOVA G5 450W"
+  },
+  {
+    "wattage": 550,
+    "price": 4000,
+    "efficiency_rating": "80+ White",
+    "name": "Seasonic Prime TX-1000 550W"
+  },
+  {
+    "wattage": 550,
+    "price": 4800,
+    "efficiency_rating": "80+ Bronze",
+    "name": "Cooler Master MWE White 550W"
+  },
+  {
+    "wattage": 550,
+    "price": 5600,
+    "efficiency_rating": "80+ Gold",
+    "name": "Thermaltake Toughpower DPS G 550W"
+  },
+  {
+    "wattage": 650,
+    "price": 4800,
+    "efficiency_rating": "80+ White",
+    "name": "be quiet! Dark Power Pro 11 650W"
+  },
+  {
+    "wattage": 650,
+    "price": 5600,
+    "efficiency_rating": "80+ Bronze",
+    "name": "Corsair RMX 650W"
+  },
+  {
+    "wattage": 650,
+    "price": 6800,
+    "efficiency_rating": "80+ Gold",
+    "name": "EVGA White 650W"
+  },
+  {
+    "wattage": 650,
+    "price": 8000,
+    "efficiency_rating": "80+ Platinum",
+    "name": "Seasonic Focus GX 650W"
+  },
+  {
+    "wattage": 750,
+    "price": 6000,
+    "efficiency_rating": "80+ White",
+    "name": "Cooler Master MWE White 750W"
+  },
+  {
+    "wattage": 750,
+    "price": 6800,
+    "efficiency_rating": "80+ Bronze",
+    "name": "Thermaltake Toughpower DPS G 750W"
+  },
+  {
+    "wattage": 750,
+    "price": 8000,
+    "efficiency_rating": "80+ Gold",
+    "name": "be quiet! Dark Power Pro 11 750W"
+  },
+  {
+    "wattage": 750,
+    "price": 9600,
+    "efficiency_rating": "80+ Platinum",
+    "name": "Corsair CX 750W"
+  },
+  {
+    "wattage": 850,
+    "price": 6800,
+    "efficiency_rating": "80+ White",
+    "name": "EVGA SuperNOVA G5 850W"
+  },
+  {
+    "wattage": 850,
+    "price": 7600,
+    "efficiency_rating": "80+ Bronze",
+    "name": "Seasonic Prime TX-1000 850W"
+  },
+  {
+    "wattage": 850,
+    "price": 9200,
+    "efficiency_rating": "80+ Gold",
+    "name": "Cooler Master MWE White 850W"
+  },
+  {
+    "wattage": 850,
+    "price": 11200,
+    "efficiency_rating": "80+ Platinum",
+    "name": "Thermaltake Toughpower DPS G 850W"
+  },
+  {
+    "wattage": 1000,
+    "price": 8800,
+    "efficiency_rating": "80+ White",
+    "name": "be quiet! Dark Power Pro 11 1000W"
+  },
+  {
+    "wattage": 1000,
+    "price": 10000,
+    "efficiency_rating": "80+ Bronze",
+    "name": "Corsair TXM 1000W"
+  },
+  {
+    "wattage": 1000,
+    "price": 12000,
+    "efficiency_rating": "80+ Gold",
+    "name": "EVGA White 1000W"
+  },
+  {
+    "wattage": 1000,
+    "price": 14400,
+    "efficiency_rating": "80+ Platinum",
+    "name": "Seasonic Focus GX 1000W"
+  },
+  {
+    "wattage": 1200,
+    "price": 12000,
+    "efficiency_rating": "80+ Gold",
+    "name": "Cooler Master MWE White 1200W"
+  },
+  {
+    "wattage": 1200,
+    "price": 14400,
+    "efficiency_rating": "80+ Platinum",
+    "name": "Thermaltake Toughpower DPS G 1200W"
+  },
+  {
+    "wattage": 1200,
+    "price": 17600,
+    "efficiency_rating": "80+ Titanium",
+    "name": "be quiet! Dark Power Pro 11 1200W"
+  },
+  {
+    "wattage": 850,
+    "price": 8000,
+    "efficiency_rating": "80+ Gold",
+    "modular": "Semi-Modular",
+    "name": "Corsair HX 850W"
+  },
+  {
+    "wattage": 850,
+    "price": 10400,
+    "efficiency_rating": "80+ Gold",
+    "modular": "Full-Modular",
+    "name": "EVGA SuperNOVA G5 850W"
+  },
+  {
+    "wattage": 1000,
+    "price": 11200,
+    "efficiency_rating": "80+ Gold",
+    "modular": "Semi-Modular",
+    "name": "Seasonic Prime TX-1000 1000W"
+  }
+]

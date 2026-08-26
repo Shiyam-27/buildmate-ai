@@ -1,0 +1,381 @@
+{
+  "9c3811db-a940-44ca-bf8a-4cd12a53ebde": {
+    "id": "9c3811db-a940-44ca-bf8a-4cd12a53ebde",
+    "title": "gaming pc in 40,000",
+    "created_at": "2026-08-26T21:50:46.286613",
+    "messages": [
+      {
+        "role": "user",
+        "content": "gaming pc in 40,000"
+      },
+      {
+        "role": "assistant",
+        "content": "❌ 💬 ⚠️ The minimum budget to assemble a complete, fully compatible PC is ₹45,000. Please enter a price of ₹45,000 or above to build the PC."
+      },
+      {
+        "role": "user",
+        "content": "pc in 45,0000"
+      },
+      {
+        "role": "assistant",
+        "content": "❌ 🤔 Could not understand your request: Could not parse LLM response. Raw: We need to parse user input: \"pc in 45,0000\". Likely they meant 45,000? Actually \"45,0000\" maybe a typo: 45,0000 could be 450,000? Usually Indian format: 45,0000 = 4,50,000? Actually Indian numbering:"
+      },
+      {
+        "role": "user",
+        "content": "pc in 45,000"
+      },
+      {
+        "role": "assistant",
+        "type": "build",
+        "data": {
+          "success": true,
+          "response_type": "build",
+          "input_analysis": {
+            "budget": 45000.0,
+            "use_case": "general",
+            "preferences": {}
+          },
+          "build": {
+            "selected_components": {
+              "cpu": {
+                "name": "AMD Ryzen 5 5600G",
+                "socket": "AM4",
+                "price": 10320,
+                "tdp": 65,
+                "core_count": 6
+              },
+              "motherboard": {
+                "name": "MSI A520M-A PRO",
+                "socket": "AM4",
+                "ram_type": "DDR4",
+                "form_factor": "Micro-ATX",
+                "price": 4720
+              },
+              "gpu": {
+                "name": "NVIDIA GeForce GTX 1660 Super",
+                "tdp": 125,
+                "length_mm": 229,
+                "price": 18320,
+                "performance_tier": "budget"
+              },
+              "ram": {
+                "type": "DDR4",
+                "speed": 2666,
+                "capacity": 8,
+                "price": 2000,
+                "name": "Corsair Vengeance LPX 8GB DDR4-2666"
+              },
+              "storage": {
+                "type": "SATA",
+                "capacity": 250,
+                "price": 1760,
+                "form_factor": "2.5 inch",
+                "name": "Kingston Generic SSD 250GB SATA SSD"
+              },
+              "psu": {
+                "wattage": 450,
+                "price": 3600,
+                "efficiency_rating": "80+ White",
+                "name": "Corsair RM 450W"
+              },
+              "case": {
+                "max_gpu_length_mm": 360,
+                "form_factor": "Micro-ATX",
+                "price": 4720,
+                "name": "Phanteks Eclipse P300A"
+              }
+            },
+            "total_cost": 45440,
+            "remaining_budget": -440.0,
+            "min_costs": {
+              "cpu": 10320,
+              "gpu": 18320,
+              "motherboard": 4720,
+              "ram": 2000,
+              "psu": 3600,
+              "case": 4720,
+              "storage": 1760
+            },
+            "category_budgets": {
+              "cpu": 10220.070422535211,
+              "gpu": 18142.605633802817,
+              "motherboard": 4674.295774647887,
+              "ram": 1980.6338028169014,
+              "psu": 3565.140845070423,
+              "case": 4674.295774647887,
+              "storage": 1742.957746478873
+            },
+            "notes": []
+          },
+          "power_analysis": {
+            "cpu_tdp": 65,
+            "gpu_tdp": 125,
+            "base_overhead": 50,
+            "peak_power_watts": 240,
+            "recommended_psu_watts": 300,
+            "selected_psu_watts": 450,
+            "psu_efficiency": "80+ White",
+            "psu_load_percentage": 53.3,
+            "load_status": "Optimal Load (Maximum efficiency & longevity)",
+            "daily_kwh": 0.99,
+            "monthly_kwh": 29.6,
+            "monthly_cost_inr": 237,
+            "yearly_cost_inr": 2885,
+            "tariff_rate": 8.0
+          },
+          "bottleneck_analysis": {
+            "bottleneck_type": "GPU Bound",
+            "bottleneck_percentage": 10.0,
+            "status_label": "GPU-Bound (Great for high-res gaming)",
+            "status_color": "blue",
+            "explanation": "The **AMD Ryzen 5 5600G** has plenty of processing headroom for the **NVIDIA GeForce GTX 1660 Super**. Your GPU will operate at 100% capacity with zero CPU frame stuttering.",
+            "cpu_tier_score": 2.5,
+            "gpu_tier_score": 1.5,
+            "resolutions": {
+              "1080p_fhd": {
+                "label": "1080p (Full HD)",
+                "assessment": "Smooth high FPS",
+                "rating": "Good"
+              },
+              "1440p_qhd": {
+                "label": "1440p (Quad HD / 2K)",
+                "assessment": "Sweet spot balance — optimal GPU utilization",
+                "rating": "Excellent"
+              },
+              "4k_uhd": {
+                "label": "4K (Ultra HD)",
+                "assessment": "100% GPU-bound — CPU bottleneck negligible",
+                "rating": "GPU Limited"
+              }
+            }
+          },
+          "alternatives": [],
+          "retailer_links": [
+            {
+              "category": "🖥️ CPU",
+              "component_name": "AMD Ryzen 5 5600G",
+              "pcpartpicker": "https://pcpartpicker.com/search/?q=AMD+Ryzen+5+5600G",
+              "amazon_in": "https://www.amazon.in/s?k=AMD+Ryzen+5+5600G"
+            },
+            {
+              "category": "🎮 GPU",
+              "component_name": "NVIDIA GeForce GTX 1660 Super",
+              "pcpartpicker": "https://pcpartpicker.com/search/?q=NVIDIA+GeForce+GTX+1660+Super",
+              "amazon_in": "https://www.amazon.in/s?k=NVIDIA+GeForce+GTX+1660+Super"
+            },
+            {
+              "category": "🔧 Motherboard",
+              "component_name": "MSI A520M-A PRO",
+              "pcpartpicker": "https://pcpartpicker.com/search/?q=MSI+A520M-A+PRO",
+              "amazon_in": "https://www.amazon.in/s?k=MSI+A520M-A+PRO"
+            },
+            {
+              "category": "💾 RAM",
+              "component_name": "Corsair Vengeance LPX 8GB DDR4-2666",
+              "pcpartpicker": "https://pcpartpicker.com/search/?q=Corsair+Vengeance+LPX+8GB+DDR4-2666",
+              "amazon_in": "https://www.amazon.in/s?k=Corsair+Vengeance+LPX+8GB+DDR4-2666"
+            },
+            {
+              "category": "💿 Storage",
+              "component_name": "Kingston Generic SSD 250GB SATA SSD",
+              "pcpartpicker": "https://pcpartpicker.com/search/?q=Kingston+Generic+SSD+250GB+SATA+SSD",
+              "amazon_in": "https://www.amazon.in/s?k=Kingston+Generic+SSD+250GB+SATA+SSD"
+            },
+            {
+              "category": "⚡ PSU",
+              "component_name": "Corsair RM 450W",
+              "pcpartpicker": "https://pcpartpicker.com/search/?q=Corsair+RM+450W",
+              "amazon_in": "https://www.amazon.in/s?k=Corsair+RM+450W"
+            },
+            {
+              "category": "📦 Case",
+              "component_name": "Phanteks Eclipse P300A",
+              "pcpartpicker": "https://pcpartpicker.com/search/?q=Phanteks+Eclipse+P300A",
+              "amazon_in": "https://www.amazon.in/s?k=Phanteks+Eclipse+P300A"
+            }
+          ],
+          "explanation": "- **CPU**: AMD Ryzen 5 5600G was chosen for its solid 6‑core/12‑thread performance and capable integrated graphics, providing good value for gaming and light content creation. \n- **GPU**: NVIDIA GeForce GTX 1660 Super delivers ~60 FPS at 1080p medium‑high settings in most titles, offering strong price‑to‑performance for a budget build. \n- **Motherboard**: MSI A520M‑A PRO supports Ryzen 5000 CPUs (with BIOS update), includes PCIe 3.0 x16, an M.2 slot, and reliable VRMs at a low cost. \n- **RAM**: 8GB DDR4 @ 2666MHz matches the motherboard’s supported speed, sufficient for entry‑level gaming and multitasking, and can be upgraded later. \n- **Storage**: 250GB SATA SSD provides fast boot and game load times versus an HDD, offering adequate space for the OS and a few games at a low price. \n- **PSU**: 450W 80+ White unit supplies enough wattage for the CPU+GPU combo with decent efficiency and leaves headroom for modest future upgrades. \n- **Case**: Phanteks Eclipse P300A features a mesh front for excellent airflow, fits GPUs up to ~380mm, and offers solid build quality with good cable management. \n- **Overall**: The build totals ₹45,440, slightly over the ₹45,000 target by ₹440, but provides a balanced 1080p gaming platform with clear upgrade paths for GPU, RAM, and storage.",
+          "warnings": null,
+          "compatibility_passed": true
+        },
+        "content": "[build result]"
+      }
+    ],
+    "last_build": {
+      "success": true,
+      "response_type": "build",
+      "input_analysis": {
+        "budget": 45000.0,
+        "use_case": "general",
+        "preferences": {}
+      },
+      "build": {
+        "selected_components": {
+          "cpu": {
+            "name": "AMD Ryzen 5 5600G",
+            "socket": "AM4",
+            "price": 10320,
+            "tdp": 65,
+            "core_count": 6
+          },
+          "motherboard": {
+            "name": "MSI A520M-A PRO",
+            "socket": "AM4",
+            "ram_type": "DDR4",
+            "form_factor": "Micro-ATX",
+            "price": 4720
+          },
+          "gpu": {
+            "name": "NVIDIA GeForce GTX 1660 Super",
+            "tdp": 125,
+            "length_mm": 229,
+            "price": 18320,
+            "performance_tier": "budget"
+          },
+          "ram": {
+            "type": "DDR4",
+            "speed": 2666,
+            "capacity": 8,
+            "price": 2000,
+            "name": "Corsair Vengeance LPX 8GB DDR4-2666"
+          },
+          "storage": {
+            "type": "SATA",
+            "capacity": 250,
+            "price": 1760,
+            "form_factor": "2.5 inch",
+            "name": "Kingston Generic SSD 250GB SATA SSD"
+          },
+          "psu": {
+            "wattage": 450,
+            "price": 3600,
+            "efficiency_rating": "80+ White",
+            "name": "Corsair RM 450W"
+          },
+          "case": {
+            "max_gpu_length_mm": 360,
+            "form_factor": "Micro-ATX",
+            "price": 4720,
+            "name": "Phanteks Eclipse P300A"
+          }
+        },
+        "total_cost": 45440,
+        "remaining_budget": -440.0,
+        "min_costs": {
+          "cpu": 10320,
+          "gpu": 18320,
+          "motherboard": 4720,
+          "ram": 2000,
+          "psu": 3600,
+          "case": 4720,
+          "storage": 1760
+        },
+        "category_budgets": {
+          "cpu": 10220.070422535211,
+          "gpu": 18142.605633802817,
+          "motherboard": 4674.295774647887,
+          "ram": 1980.6338028169014,
+          "psu": 3565.140845070423,
+          "case": 4674.295774647887,
+          "storage": 1742.957746478873
+        },
+        "notes": []
+      },
+      "power_analysis": {
+        "cpu_tdp": 65,
+        "gpu_tdp": 125,
+        "base_overhead": 50,
+        "peak_power_watts": 240,
+        "recommended_psu_watts": 300,
+        "selected_psu_watts": 450,
+        "psu_efficiency": "80+ White",
+        "psu_load_percentage": 53.3,
+        "load_status": "Optimal Load (Maximum efficiency & longevity)",
+        "daily_kwh": 0.99,
+        "monthly_kwh": 29.6,
+        "monthly_cost_inr": 237,
+        "yearly_cost_inr": 2885,
+        "tariff_rate": 8.0
+      },
+      "bottleneck_analysis": {
+        "bottleneck_type": "GPU Bound",
+        "bottleneck_percentage": 10.0,
+        "status_label": "GPU-Bound (Great for high-res gaming)",
+        "status_color": "blue",
+        "explanation": "The **AMD Ryzen 5 5600G** has plenty of processing headroom for the **NVIDIA GeForce GTX 1660 Super**. Your GPU will operate at 100% capacity with zero CPU frame stuttering.",
+        "cpu_tier_score": 2.5,
+        "gpu_tier_score": 1.5,
+        "resolutions": {
+          "1080p_fhd": {
+            "label": "1080p (Full HD)",
+            "assessment": "Smooth high FPS",
+            "rating": "Good"
+          },
+          "1440p_qhd": {
+            "label": "1440p (Quad HD / 2K)",
+            "assessment": "Sweet spot balance — optimal GPU utilization",
+            "rating": "Excellent"
+          },
+          "4k_uhd": {
+            "label": "4K (Ultra HD)",
+            "assessment": "100% GPU-bound — CPU bottleneck negligible",
+            "rating": "GPU Limited"
+          }
+        }
+      },
+      "alternatives": [],
+      "retailer_links": [
+        {
+          "category": "🖥️ CPU",
+          "component_name": "AMD Ryzen 5 5600G",
+          "pcpartpicker": "https://pcpartpicker.com/search/?q=AMD+Ryzen+5+5600G",
+          "amazon_in": "https://www.amazon.in/s?k=AMD+Ryzen+5+5600G"
+        },
+        {
+          "category": "🎮 GPU",
+          "component_name": "NVIDIA GeForce GTX 1660 Super",
+          "pcpartpicker": "https://pcpartpicker.com/search/?q=NVIDIA+GeForce+GTX+1660+Super",
+          "amazon_in": "https://www.amazon.in/s?k=NVIDIA+GeForce+GTX+1660+Super"
+        },
+        {
+          "category": "🔧 Motherboard",
+          "component_name": "MSI A520M-A PRO",
+          "pcpartpicker": "https://pcpartpicker.com/search/?q=MSI+A520M-A+PRO",
+          "amazon_in": "https://www.amazon.in/s?k=MSI+A520M-A+PRO"
+        },
+        {
+          "category": "💾 RAM",
+          "component_name": "Corsair Vengeance LPX 8GB DDR4-2666",
+          "pcpartpicker": "https://pcpartpicker.com/search/?q=Corsair+Vengeance+LPX+8GB+DDR4-2666",
+          "amazon_in": "https://www.amazon.in/s?k=Corsair+Vengeance+LPX+8GB+DDR4-2666"
+        },
+        {
+          "category": "💿 Storage",
+          "component_name": "Kingston Generic SSD 250GB SATA SSD",
+          "pcpartpicker": "https://pcpartpicker.com/search/?q=Kingston+Generic+SSD+250GB+SATA+SSD",
+          "amazon_in": "https://www.amazon.in/s?k=Kingston+Generic+SSD+250GB+SATA+SSD"
+        },
+        {
+          "category": "⚡ PSU",
+          "component_name": "Corsair RM 450W",
+          "pcpartpicker": "https://pcpartpicker.com/search/?q=Corsair+RM+450W",
+          "amazon_in": "https://www.amazon.in/s?k=Corsair+RM+450W"
+        },
+        {
+          "category": "📦 Case",
+          "component_name": "Phanteks Eclipse P300A",
+          "pcpartpicker": "https://pcpartpicker.com/search/?q=Phanteks+Eclipse+P300A",
+          "amazon_in": "https://www.amazon.in/s?k=Phanteks+Eclipse+P300A"
+        }
+      ],
+      "explanation": "- **CPU**: AMD Ryzen 5 5600G was chosen for its solid 6‑core/12‑thread performance and capable integrated graphics, providing good value for gaming and light content creation. \n- **GPU**: NVIDIA GeForce GTX 1660 Super delivers ~60 FPS at 1080p medium‑high settings in most titles, offering strong price‑to‑performance for a budget build. \n- **Motherboard**: MSI A520M‑A PRO supports Ryzen 5000 CPUs (with BIOS update), includes PCIe 3.0 x16, an M.2 slot, and reliable VRMs at a low cost. \n- **RAM**: 8GB DDR4 @ 2666MHz matches the motherboard’s supported speed, sufficient for entry‑level gaming and multitasking, and can be upgraded later. \n- **Storage**: 250GB SATA SSD provides fast boot and game load times versus an HDD, offering adequate space for the OS and a few games at a low price. \n- **PSU**: 450W 80+ White unit supplies enough wattage for the CPU+GPU combo with decent efficiency and leaves headroom for modest future upgrades. \n- **Case**: Phanteks Eclipse P300A features a mesh front for excellent airflow, fits GPUs up to ~380mm, and offers solid build quality with good cable management. \n- **Overall**: The build totals ₹45,440, slightly over the ₹45,000 target by ₹440, but provides a balanced 1080p gaming platform with clear upgrade paths for GPU, RAM, and storage.",
+      "warnings": null,
+      "compatibility_passed": true
+    },
+    "last_intent": {
+      "budget": 45000.0,
+      "use_case": "general",
+      "preferences": {}
+    }
+  }
+}

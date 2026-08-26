@@ -1,0 +1,163 @@
+[
+  {
+    "name": "NVIDIA GeForce RTX 3060",
+    "tdp": 170,
+    "length_mm": 242,
+    "price": 26320,
+    "performance_tier": "mid-range"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 3060 Ti",
+    "tdp": 200,
+    "length_mm": 242,
+    "price": 31920,
+    "performance_tier": "high-end"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 3070",
+    "tdp": 220,
+    "length_mm": 242,
+    "price": 39920,
+    "performance_tier": "high-end"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 3080",
+    "tdp": 320,
+    "length_mm": 285,
+    "price": 55920,
+    "performance_tier": "enthusiast"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 3090",
+    "tdp": 350,
+    "length_mm": 313,
+    "price": 119920,
+    "performance_tier": "enthusiast"
+  },
+  {
+    "name": "AMD Radeon RX 6600 XT",
+    "tdp": 160,
+    "length_mm": 267,
+    "price": 30320,
+    "performance_tier": "mid-range"
+  },
+  {
+    "name": "AMD Radeon RX 6700 XT",
+    "tdp": 230,
+    "length_mm": 267,
+    "price": 38320,
+    "performance_tier": "high-end"
+  },
+  {
+    "name": "AMD Radeon RX 6800",
+    "tdp": 250,
+    "length_mm": 287,
+    "price": 46320,
+    "performance_tier": "high-end"
+  },
+  {
+    "name": "AMD Radeon RX 6800 XT",
+    "tdp": 300,
+    "length_mm": 287,
+    "price": 51920,
+    "performance_tier": "enthusiast"
+  },
+  {
+    "name": "AMD Radeon RX 6900 XT",
+    "tdp": 300,
+    "length_mm": 287,
+    "price": 79920,
+    "performance_tier": "enthusiast"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4060",
+    "tdp": 115,
+    "length_mm": 242,
+    "price": 23920,
+    "performance_tier": "mid-range"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4060 Ti",
+    "tdp": 160,
+    "length_mm": 242,
+    "price": 31920,
+    "performance_tier": "mid-range"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4070",
+    "tdp": 200,
+    "length_mm": 242,
+    "price": 47920,
+    "performance_tier": "high-end"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4080",
+    "tdp": 320,
+    "length_mm": 304,
+    "price": 95920,
+    "performance_tier": "enthusiast"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4090",
+    "tdp": 450,
+    "length_mm": 304,
+    "price": 127920,
+    "performance_tier": "enthusiast"
+  },
+  {
+    "name": "AMD Radeon RX 7600",
+    "tdp": 165,
+    "length_mm": 242,
+    "price": 21520,
+    "performance_tier": "mid-range"
+  },
+  {
+    "name": "AMD Radeon RX 7700 XT",
+    "tdp": 245,
+    "length_mm": 267,
+    "price": 35920,
+    "performance_tier": "high-end"
+  },
+  {
+    "name": "AMD Radeon RX 7800 XT",
+    "tdp": 263,
+    "length_mm": 267,
+    "price": 39920,
+    "performance_tier": "high-end"
+  },
+  {
+    "name": "AMD Radeon RX 7900 XTX",
+    "tdp": 355,
+    "length_mm": 287,
+    "price": 79920,
+    "performance_tier": "enthusiast"
+  },
+  {
+    "name": "NVIDIA GeForce GTX 1660 Super",
+    "tdp": 125,
+    "length_mm": 229,
+    "price": 18320,
+    "performance_tier": "budget"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 5070",
+    "tdp": 250,
+    "length_mm": 242,
+    "price": 54990,
+    "performance_tier": "enthusiast"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 5080",
+    "tdp": 400,
+    "length_mm": 304,
+    "price": 99990,
+    "performance_tier": "enthusiast"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 5090",
+    "tdp": 600,
+    "length_mm": 336,
+    "price": 199990,
+    "performance_tier": "enthusiast"
+  }
+]
